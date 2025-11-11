@@ -1,9 +1,9 @@
 $date
-     Nov 10, 2025       19:14:51
+     Nov 11, 2025       23:52:50
 $end
 
 $version
- SystemC 3.0.2-Accellera --- Nov 10 2025 13:37:14
+ SystemC 2.3.3-Accellera --- Nov 11 2025 13:16:08
 $end
 
 $timescale
@@ -11,11 +11,13 @@ $timescale
 $end
 
 $scope module SystemC $end
-$var wire   51  aaaaa  in1 [50:0]  $end
-$var wire   51  aaaab  in2 [50:0]  $end
-$var wire   51  aaaac  out [50:0]  $end
+$var wire   52  aaaaa  in1 [51:0]  $end
+$var wire   52  aaaab  in2 [51:0]  $end
+$var wire   52  aaaac  out [51:0]  $end
 $var wire    1  aaaad  carry       $end
-$var wire    1  aaaae  clk       $end
+$var wire   52  aaaae  stim_out1 [51:0]  $end
+$var wire   52  aaaaf  stim_out2 [51:0]  $end
+$var wire    1  aaaag  clk       $end
 $upscope $end
 $enddefinitions  $end
 
@@ -24,36 +26,76 @@ All initial values are dumped below at time 0 sec = 0 timescale units.
 $end
 
 $dumpvars
-b1010 aaaaa
+b11110 aaaaa
 b10100 aaaab
-b11110 aaaac
+b110010 aaaac
 0aaaad
-1aaaae
+b1010 aaaae
+b10100 aaaaf
+1aaaag
 $end
 
 #5000
-0aaaae
+0aaaag
 
 #10000
-1aaaae
+1aaaag
 
 #15000
-0aaaae
+0aaaag
 
 #20000
-b111111111111111111111111111111111111111111111111111 aaaaa
-b101 aaaab
-b111111111111111111111111111111111111111111111111010 aaaac
-1aaaad
-1aaaae
+b1010 aaaaa
+b11110 aaaac
+b1111 aaaae
+b1111 aaaaf
+1aaaag
 
 #25000
-0aaaae
+0aaaag
 
 #30000
-1aaaae
+1aaaag
 
 #35000
-0aaaae
+0aaaag
 
 #40000
+b1111 aaaaa
+b1111 aaaab
+1aaaag
+
+#45000
+0aaaag
+
+#50000
+1aaaag
+
+#55000
+0aaaag
+
+#60000
+1aaaag
+
+#65000
+0aaaag
+
+#70000
+1aaaag
+
+#75000
+0aaaag
+
+#80000
+1aaaag
+
+#85000
+0aaaag
+
+#90000
+1aaaag
+
+#95000
+0aaaag
+
+#100000
