@@ -1,0 +1,674 @@
+
+        SystemC 3.0.2-Accellera --- Nov 10 2025 13:37:14
+        Copyright (c) 1996-2025 by all Contributors,
+        ALL RIGHTS RESERVED
+[STIMULATOR]: 0 s: val1 = 100 val2 = 200
+
+Info: (I702) default timescale unit used for tracing: 1 ps (adder.vcd)
+
+[ADDER]: ============ E V E N T - T R I G G E R E D ===============
+[ADDER]: 10 ns: inp1 = 100 inp2 = 200 sum = 300 carry = 0
+
+
+[STIMULATOR]: ============ E V E N T - T R I G G E R E D ===============
+[STIMULATOR]: 10 ns: sum = 300 carry = 0
+
+[STIMULATOR]: 10 ns: val1 = 150 val2 = 150
+[STIMULATOR]: 20 ns: val1 = 300 val2 = 301
+
+[ADDER]: ============ E V E N T - T R I G G E R E D ===============
+[ADDER]: 30 ns: inp1 = 300 inp2 = 301 sum = 601 carry = 0
+
+
+[STIMULATOR]: ============ E V E N T - T R I G G E R E D ===============
+[STIMULATOR]: 30 ns: sum = 601 carry = 0
+
+[STIMULATOR]: 30 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 40 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 50 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 60 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 70 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 80 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 90 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 100 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 110 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 120 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 130 ns: val1 = 100 val2 = 200
+
+[ADDER]: ============ E V E N T - T R I G G E R E D ===============
+[ADDER]: 140 ns: inp1 = 100 inp2 = 200 sum = 300 carry = 0
+
+
+[STIMULATOR]: ============ E V E N T - T R I G G E R E D ===============
+[STIMULATOR]: 140 ns: sum = 300 carry = 0
+
+[STIMULATOR]: 140 ns: val1 = 150 val2 = 150
+[STIMULATOR]: 150 ns: val1 = 300 val2 = 301
+
+[ADDER]: ============ E V E N T - T R I G G E R E D ===============
+[ADDER]: 160 ns: inp1 = 300 inp2 = 301 sum = 601 carry = 0
+
+
+[STIMULATOR]: ============ E V E N T - T R I G G E R E D ===============
+[STIMULATOR]: 160 ns: sum = 601 carry = 0
+
+[STIMULATOR]: 160 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 170 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 180 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 190 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 200 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 210 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 220 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 230 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 240 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 250 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 260 ns: val1 = 100 val2 = 200
+
+[ADDER]: ============ E V E N T - T R I G G E R E D ===============
+[ADDER]: 270 ns: inp1 = 100 inp2 = 200 sum = 300 carry = 0
+
+
+[STIMULATOR]: ============ E V E N T - T R I G G E R E D ===============
+[STIMULATOR]: 270 ns: sum = 300 carry = 0
+
+[STIMULATOR]: 270 ns: val1 = 150 val2 = 150
+[STIMULATOR]: 280 ns: val1 = 300 val2 = 301
+
+[ADDER]: ============ E V E N T - T R I G G E R E D ===============
+[ADDER]: 290 ns: inp1 = 300 inp2 = 301 sum = 601 carry = 0
+
+
+[STIMULATOR]: ============ E V E N T - T R I G G E R E D ===============
+[STIMULATOR]: 290 ns: sum = 601 carry = 0
+
+[STIMULATOR]: 290 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 300 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 310 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 320 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 330 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 340 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 350 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 360 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 370 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 380 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 390 ns: val1 = 100 val2 = 200
+
+[ADDER]: ============ E V E N T - T R I G G E R E D ===============
+[ADDER]: 400 ns: inp1 = 100 inp2 = 200 sum = 300 carry = 0
+
+
+[STIMULATOR]: ============ E V E N T - T R I G G E R E D ===============
+[STIMULATOR]: 400 ns: sum = 300 carry = 0
+
+[STIMULATOR]: 400 ns: val1 = 150 val2 = 150
+[STIMULATOR]: 410 ns: val1 = 300 val2 = 301
+
+[ADDER]: ============ E V E N T - T R I G G E R E D ===============
+[ADDER]: 420 ns: inp1 = 300 inp2 = 301 sum = 601 carry = 0
+
+
+[STIMULATOR]: ============ E V E N T - T R I G G E R E D ===============
+[STIMULATOR]: 420 ns: sum = 601 carry = 0
+
+[STIMULATOR]: 420 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 430 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 440 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 450 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 460 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 470 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 480 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 490 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 500 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 510 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 520 ns: val1 = 100 val2 = 200
+
+[ADDER]: ============ E V E N T - T R I G G E R E D ===============
+[ADDER]: 530 ns: inp1 = 100 inp2 = 200 sum = 300 carry = 0
+
+
+[STIMULATOR]: ============ E V E N T - T R I G G E R E D ===============
+[STIMULATOR]: 530 ns: sum = 300 carry = 0
+
+[STIMULATOR]: 530 ns: val1 = 150 val2 = 150
+[STIMULATOR]: 540 ns: val1 = 300 val2 = 301
+
+[ADDER]: ============ E V E N T - T R I G G E R E D ===============
+[ADDER]: 550 ns: inp1 = 300 inp2 = 301 sum = 601 carry = 0
+
+
+[STIMULATOR]: ============ E V E N T - T R I G G E R E D ===============
+[STIMULATOR]: 550 ns: sum = 601 carry = 0
+
+[STIMULATOR]: 550 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 560 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 570 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 580 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 590 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 600 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 610 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 620 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 630 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 640 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 650 ns: val1 = 100 val2 = 200
+
+[ADDER]: ============ E V E N T - T R I G G E R E D ===============
+[ADDER]: 660 ns: inp1 = 100 inp2 = 200 sum = 300 carry = 0
+
+
+[STIMULATOR]: ============ E V E N T - T R I G G E R E D ===============
+[STIMULATOR]: 660 ns: sum = 300 carry = 0
+
+[STIMULATOR]: 660 ns: val1 = 150 val2 = 150
+[STIMULATOR]: 670 ns: val1 = 300 val2 = 301
+
+[ADDER]: ============ E V E N T - T R I G G E R E D ===============
+[ADDER]: 680 ns: inp1 = 300 inp2 = 301 sum = 601 carry = 0
+
+
+[STIMULATOR]: ============ E V E N T - T R I G G E R E D ===============
+[STIMULATOR]: 680 ns: sum = 601 carry = 0
+
+[STIMULATOR]: 680 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 690 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 700 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 710 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 720 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 730 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 740 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 750 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 760 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 770 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 780 ns: val1 = 100 val2 = 200
+
+[ADDER]: ============ E V E N T - T R I G G E R E D ===============
+[ADDER]: 790 ns: inp1 = 100 inp2 = 200 sum = 300 carry = 0
+
+
+[STIMULATOR]: ============ E V E N T - T R I G G E R E D ===============
+[STIMULATOR]: 790 ns: sum = 300 carry = 0
+
+[STIMULATOR]: 790 ns: val1 = 150 val2 = 150
+[STIMULATOR]: 800 ns: val1 = 300 val2 = 301
+
+[ADDER]: ============ E V E N T - T R I G G E R E D ===============
+[ADDER]: 810 ns: inp1 = 300 inp2 = 301 sum = 601 carry = 0
+
+
+[STIMULATOR]: ============ E V E N T - T R I G G E R E D ===============
+[STIMULATOR]: 810 ns: sum = 601 carry = 0
+
+[STIMULATOR]: 810 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 820 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 830 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 840 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 850 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 860 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 870 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 880 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 890 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 900 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 910 ns: val1 = 100 val2 = 200
+
+[ADDER]: ============ E V E N T - T R I G G E R E D ===============
+[ADDER]: 920 ns: inp1 = 100 inp2 = 200 sum = 300 carry = 0
+
+
+[STIMULATOR]: ============ E V E N T - T R I G G E R E D ===============
+[STIMULATOR]: 920 ns: sum = 300 carry = 0
+
+[STIMULATOR]: 920 ns: val1 = 150 val2 = 150
+[STIMULATOR]: 930 ns: val1 = 300 val2 = 301
+
+[ADDER]: ============ E V E N T - T R I G G E R E D ===============
+[ADDER]: 940 ns: inp1 = 300 inp2 = 301 sum = 601 carry = 0
+
+
+[STIMULATOR]: ============ E V E N T - T R I G G E R E D ===============
+[STIMULATOR]: 940 ns: sum = 601 carry = 0
+
+[STIMULATOR]: 940 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 950 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 960 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 970 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 980 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 990 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 1 us: val1 = 300 val2 = 301
+[STIMULATOR]: 1010 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 1020 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 1030 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 1040 ns: val1 = 100 val2 = 200
+
+[ADDER]: ============ E V E N T - T R I G G E R E D ===============
+[ADDER]: 1050 ns: inp1 = 100 inp2 = 200 sum = 300 carry = 0
+
+
+[STIMULATOR]: ============ E V E N T - T R I G G E R E D ===============
+[STIMULATOR]: 1050 ns: sum = 300 carry = 0
+
+[STIMULATOR]: 1050 ns: val1 = 150 val2 = 150
+[STIMULATOR]: 1060 ns: val1 = 300 val2 = 301
+
+[ADDER]: ============ E V E N T - T R I G G E R E D ===============
+[ADDER]: 1070 ns: inp1 = 300 inp2 = 301 sum = 601 carry = 0
+
+
+[STIMULATOR]: ============ E V E N T - T R I G G E R E D ===============
+[STIMULATOR]: 1070 ns: sum = 601 carry = 0
+
+[STIMULATOR]: 1070 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 1080 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 1090 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 1100 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 1110 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 1120 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 1130 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 1140 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 1150 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 1160 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 1170 ns: val1 = 100 val2 = 200
+
+[ADDER]: ============ E V E N T - T R I G G E R E D ===============
+[ADDER]: 1180 ns: inp1 = 100 inp2 = 200 sum = 300 carry = 0
+
+
+[STIMULATOR]: ============ E V E N T - T R I G G E R E D ===============
+[STIMULATOR]: 1180 ns: sum = 300 carry = 0
+
+[STIMULATOR]: 1180 ns: val1 = 150 val2 = 150
+[STIMULATOR]: 1190 ns: val1 = 300 val2 = 301
+
+[ADDER]: ============ E V E N T - T R I G G E R E D ===============
+[ADDER]: 1200 ns: inp1 = 300 inp2 = 301 sum = 601 carry = 0
+
+
+[STIMULATOR]: ============ E V E N T - T R I G G E R E D ===============
+[STIMULATOR]: 1200 ns: sum = 601 carry = 0
+
+[STIMULATOR]: 1200 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 1210 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 1220 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 1230 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 1240 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 1250 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 1260 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 1270 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 1280 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 1290 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 1300 ns: val1 = 100 val2 = 200
+
+[ADDER]: ============ E V E N T - T R I G G E R E D ===============
+[ADDER]: 1310 ns: inp1 = 100 inp2 = 200 sum = 300 carry = 0
+
+
+[STIMULATOR]: ============ E V E N T - T R I G G E R E D ===============
+[STIMULATOR]: 1310 ns: sum = 300 carry = 0
+
+[STIMULATOR]: 1310 ns: val1 = 150 val2 = 150
+[STIMULATOR]: 1320 ns: val1 = 300 val2 = 301
+
+[ADDER]: ============ E V E N T - T R I G G E R E D ===============
+[ADDER]: 1330 ns: inp1 = 300 inp2 = 301 sum = 601 carry = 0
+
+
+[STIMULATOR]: ============ E V E N T - T R I G G E R E D ===============
+[STIMULATOR]: 1330 ns: sum = 601 carry = 0
+
+[STIMULATOR]: 1330 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 1340 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 1350 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 1360 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 1370 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 1380 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 1390 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 1400 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 1410 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 1420 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 1430 ns: val1 = 100 val2 = 200
+
+[ADDER]: ============ E V E N T - T R I G G E R E D ===============
+[ADDER]: 1440 ns: inp1 = 100 inp2 = 200 sum = 300 carry = 0
+
+
+[STIMULATOR]: ============ E V E N T - T R I G G E R E D ===============
+[STIMULATOR]: 1440 ns: sum = 300 carry = 0
+
+[STIMULATOR]: 1440 ns: val1 = 150 val2 = 150
+[STIMULATOR]: 1450 ns: val1 = 300 val2 = 301
+
+[ADDER]: ============ E V E N T - T R I G G E R E D ===============
+[ADDER]: 1460 ns: inp1 = 300 inp2 = 301 sum = 601 carry = 0
+
+
+[STIMULATOR]: ============ E V E N T - T R I G G E R E D ===============
+[STIMULATOR]: 1460 ns: sum = 601 carry = 0
+
+[STIMULATOR]: 1460 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 1470 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 1480 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 1490 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 1500 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 1510 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 1520 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 1530 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 1540 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 1550 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 1560 ns: val1 = 100 val2 = 200
+
+[ADDER]: ============ E V E N T - T R I G G E R E D ===============
+[ADDER]: 1570 ns: inp1 = 100 inp2 = 200 sum = 300 carry = 0
+
+
+[STIMULATOR]: ============ E V E N T - T R I G G E R E D ===============
+[STIMULATOR]: 1570 ns: sum = 300 carry = 0
+
+[STIMULATOR]: 1570 ns: val1 = 150 val2 = 150
+[STIMULATOR]: 1580 ns: val1 = 300 val2 = 301
+
+[ADDER]: ============ E V E N T - T R I G G E R E D ===============
+[ADDER]: 1590 ns: inp1 = 300 inp2 = 301 sum = 601 carry = 0
+
+
+[STIMULATOR]: ============ E V E N T - T R I G G E R E D ===============
+[STIMULATOR]: 1590 ns: sum = 601 carry = 0
+
+[STIMULATOR]: 1590 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 1600 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 1610 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 1620 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 1630 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 1640 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 1650 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 1660 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 1670 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 1680 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 1690 ns: val1 = 100 val2 = 200
+
+[ADDER]: ============ E V E N T - T R I G G E R E D ===============
+[ADDER]: 1700 ns: inp1 = 100 inp2 = 200 sum = 300 carry = 0
+
+
+[STIMULATOR]: ============ E V E N T - T R I G G E R E D ===============
+[STIMULATOR]: 1700 ns: sum = 300 carry = 0
+
+[STIMULATOR]: 1700 ns: val1 = 150 val2 = 150
+[STIMULATOR]: 1710 ns: val1 = 300 val2 = 301
+
+[ADDER]: ============ E V E N T - T R I G G E R E D ===============
+[ADDER]: 1720 ns: inp1 = 300 inp2 = 301 sum = 601 carry = 0
+
+
+[STIMULATOR]: ============ E V E N T - T R I G G E R E D ===============
+[STIMULATOR]: 1720 ns: sum = 601 carry = 0
+
+[STIMULATOR]: 1720 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 1730 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 1740 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 1750 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 1760 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 1770 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 1780 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 1790 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 1800 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 1810 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 1820 ns: val1 = 100 val2 = 200
+
+[ADDER]: ============ E V E N T - T R I G G E R E D ===============
+[ADDER]: 1830 ns: inp1 = 100 inp2 = 200 sum = 300 carry = 0
+
+
+[STIMULATOR]: ============ E V E N T - T R I G G E R E D ===============
+[STIMULATOR]: 1830 ns: sum = 300 carry = 0
+
+[STIMULATOR]: 1830 ns: val1 = 150 val2 = 150
+[STIMULATOR]: 1840 ns: val1 = 300 val2 = 301
+
+[ADDER]: ============ E V E N T - T R I G G E R E D ===============
+[ADDER]: 1850 ns: inp1 = 300 inp2 = 301 sum = 601 carry = 0
+
+
+[STIMULATOR]: ============ E V E N T - T R I G G E R E D ===============
+[STIMULATOR]: 1850 ns: sum = 601 carry = 0
+
+[STIMULATOR]: 1850 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 1860 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 1870 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 1880 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 1890 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 1900 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 1910 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 1920 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 1930 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 1940 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 1950 ns: val1 = 100 val2 = 200
+
+[ADDER]: ============ E V E N T - T R I G G E R E D ===============
+[ADDER]: 1960 ns: inp1 = 100 inp2 = 200 sum = 300 carry = 0
+
+
+[STIMULATOR]: ============ E V E N T - T R I G G E R E D ===============
+[STIMULATOR]: 1960 ns: sum = 300 carry = 0
+
+[STIMULATOR]: 1960 ns: val1 = 150 val2 = 150
+[STIMULATOR]: 1970 ns: val1 = 300 val2 = 301
+
+[ADDER]: ============ E V E N T - T R I G G E R E D ===============
+[ADDER]: 1980 ns: inp1 = 300 inp2 = 301 sum = 601 carry = 0
+
+
+[STIMULATOR]: ============ E V E N T - T R I G G E R E D ===============
+[STIMULATOR]: 1980 ns: sum = 601 carry = 0
+
+[STIMULATOR]: 1980 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 1990 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 2 us: val1 = 300 val2 = 301
+[STIMULATOR]: 2010 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 2020 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 2030 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 2040 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 2050 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 2060 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 2070 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 2080 ns: val1 = 100 val2 = 200
+
+[ADDER]: ============ E V E N T - T R I G G E R E D ===============
+[ADDER]: 2090 ns: inp1 = 100 inp2 = 200 sum = 300 carry = 0
+
+
+[STIMULATOR]: ============ E V E N T - T R I G G E R E D ===============
+[STIMULATOR]: 2090 ns: sum = 300 carry = 0
+
+[STIMULATOR]: 2090 ns: val1 = 150 val2 = 150
+[STIMULATOR]: 2100 ns: val1 = 300 val2 = 301
+
+[ADDER]: ============ E V E N T - T R I G G E R E D ===============
+[ADDER]: 2110 ns: inp1 = 300 inp2 = 301 sum = 601 carry = 0
+
+
+[STIMULATOR]: ============ E V E N T - T R I G G E R E D ===============
+[STIMULATOR]: 2110 ns: sum = 601 carry = 0
+
+[STIMULATOR]: 2110 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 2120 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 2130 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 2140 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 2150 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 2160 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 2170 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 2180 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 2190 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 2200 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 2210 ns: val1 = 100 val2 = 200
+
+[ADDER]: ============ E V E N T - T R I G G E R E D ===============
+[ADDER]: 2220 ns: inp1 = 100 inp2 = 200 sum = 300 carry = 0
+
+
+[STIMULATOR]: ============ E V E N T - T R I G G E R E D ===============
+[STIMULATOR]: 2220 ns: sum = 300 carry = 0
+
+[STIMULATOR]: 2220 ns: val1 = 150 val2 = 150
+[STIMULATOR]: 2230 ns: val1 = 300 val2 = 301
+
+[ADDER]: ============ E V E N T - T R I G G E R E D ===============
+[ADDER]: 2240 ns: inp1 = 300 inp2 = 301 sum = 601 carry = 0
+
+
+[STIMULATOR]: ============ E V E N T - T R I G G E R E D ===============
+[STIMULATOR]: 2240 ns: sum = 601 carry = 0
+
+[STIMULATOR]: 2240 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 2250 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 2260 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 2270 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 2280 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 2290 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 2300 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 2310 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 2320 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 2330 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 2340 ns: val1 = 100 val2 = 200
+
+[ADDER]: ============ E V E N T - T R I G G E R E D ===============
+[ADDER]: 2350 ns: inp1 = 100 inp2 = 200 sum = 300 carry = 0
+
+
+[STIMULATOR]: ============ E V E N T - T R I G G E R E D ===============
+[STIMULATOR]: 2350 ns: sum = 300 carry = 0
+
+[STIMULATOR]: 2350 ns: val1 = 150 val2 = 150
+[STIMULATOR]: 2360 ns: val1 = 300 val2 = 301
+
+[ADDER]: ============ E V E N T - T R I G G E R E D ===============
+[ADDER]: 2370 ns: inp1 = 300 inp2 = 301 sum = 601 carry = 0
+
+
+[STIMULATOR]: ============ E V E N T - T R I G G E R E D ===============
+[STIMULATOR]: 2370 ns: sum = 601 carry = 0
+
+[STIMULATOR]: 2370 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 2380 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 2390 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 2400 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 2410 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 2420 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 2430 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 2440 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 2450 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 2460 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 2470 ns: val1 = 100 val2 = 200
+
+[ADDER]: ============ E V E N T - T R I G G E R E D ===============
+[ADDER]: 2480 ns: inp1 = 100 inp2 = 200 sum = 300 carry = 0
+
+
+[STIMULATOR]: ============ E V E N T - T R I G G E R E D ===============
+[STIMULATOR]: 2480 ns: sum = 300 carry = 0
+
+[STIMULATOR]: 2480 ns: val1 = 150 val2 = 150
+[STIMULATOR]: 2490 ns: val1 = 300 val2 = 301
+
+[ADDER]: ============ E V E N T - T R I G G E R E D ===============
+[ADDER]: 2500 ns: inp1 = 300 inp2 = 301 sum = 601 carry = 0
+
+
+[STIMULATOR]: ============ E V E N T - T R I G G E R E D ===============
+[STIMULATOR]: 2500 ns: sum = 601 carry = 0
+
+[STIMULATOR]: 2500 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 2510 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 2520 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 2530 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 2540 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 2550 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 2560 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 2570 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 2580 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 2590 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 2600 ns: val1 = 100 val2 = 200
+
+[ADDER]: ============ E V E N T - T R I G G E R E D ===============
+[ADDER]: 2610 ns: inp1 = 100 inp2 = 200 sum = 300 carry = 0
+
+
+[STIMULATOR]: ============ E V E N T - T R I G G E R E D ===============
+[STIMULATOR]: 2610 ns: sum = 300 carry = 0
+
+[STIMULATOR]: 2610 ns: val1 = 150 val2 = 150
+[STIMULATOR]: 2620 ns: val1 = 300 val2 = 301
+
+[ADDER]: ============ E V E N T - T R I G G E R E D ===============
+[ADDER]: 2630 ns: inp1 = 300 inp2 = 301 sum = 601 carry = 0
+
+
+[STIMULATOR]: ============ E V E N T - T R I G G E R E D ===============
+[STIMULATOR]: 2630 ns: sum = 601 carry = 0
+
+[STIMULATOR]: 2630 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 2640 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 2650 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 2660 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 2670 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 2680 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 2690 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 2700 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 2710 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 2720 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 2730 ns: val1 = 100 val2 = 200
+
+[ADDER]: ============ E V E N T - T R I G G E R E D ===============
+[ADDER]: 2740 ns: inp1 = 100 inp2 = 200 sum = 300 carry = 0
+
+
+[STIMULATOR]: ============ E V E N T - T R I G G E R E D ===============
+[STIMULATOR]: 2740 ns: sum = 300 carry = 0
+
+[STIMULATOR]: 2740 ns: val1 = 150 val2 = 150
+[STIMULATOR]: 2750 ns: val1 = 300 val2 = 301
+
+[ADDER]: ============ E V E N T - T R I G G E R E D ===============
+[ADDER]: 2760 ns: inp1 = 300 inp2 = 301 sum = 601 carry = 0
+
+
+[STIMULATOR]: ============ E V E N T - T R I G G E R E D ===============
+[STIMULATOR]: 2760 ns: sum = 601 carry = 0
+
+[STIMULATOR]: 2760 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 2770 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 2780 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 2790 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 2800 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 2810 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 2820 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 2830 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 2840 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 2850 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 2860 ns: val1 = 100 val2 = 200
+
+[ADDER]: ============ E V E N T - T R I G G E R E D ===============
+[ADDER]: 2870 ns: inp1 = 100 inp2 = 200 sum = 300 carry = 0
+
+
+[STIMULATOR]: ============ E V E N T - T R I G G E R E D ===============
+[STIMULATOR]: 2870 ns: sum = 300 carry = 0
+
+[STIMULATOR]: 2870 ns: val1 = 150 val2 = 150
+[STIMULATOR]: 2880 ns: val1 = 300 val2 = 301
+
+[ADDER]: ============ E V E N T - T R I G G E R E D ===============
+[ADDER]: 2890 ns: inp1 = 300 inp2 = 301 sum = 601 carry = 0
+
+
+[STIMULATOR]: ============ E V E N T - T R I G G E R E D ===============
+[STIMULATOR]: 2890 ns: sum = 601 carry = 0
+
+[STIMULATOR]: 2890 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 2900 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 2910 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 2920 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 2930 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 2940 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 2950 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 2960 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 2970 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 2980 ns: val1 = 300 val2 = 301
+[STIMULATOR]: 2990 ns: val1 = 100 val2 = 200
